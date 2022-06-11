@@ -1,0 +1,15 @@
+{
+  "domain": "udm_fan_control",
+  "name": "UDM Fan Control",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/udm_fan_control",
+  "requirements": ["paramiko"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@Klausmd5"
+  ],
+  "iot_class": "local_polling"
+}
